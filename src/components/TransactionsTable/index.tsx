@@ -22,7 +22,7 @@ export function TransactionsTable() {
 
                 <tbody>
                     <tr>
-                        <td>
+                        <td> 
                             Desenvolvimento de website
                         </td>
                         <td className="deposit">
